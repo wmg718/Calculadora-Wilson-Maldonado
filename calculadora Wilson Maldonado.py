@@ -1,6 +1,6 @@
 import numpy as np
 
-def mmenu():
+def menu():
     print("\n ¬| Calculadora  |¬")
     print("Hecha por Wilson Maldonado")
     print("1. Suma de arrays")
